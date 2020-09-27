@@ -30,7 +30,7 @@ Scalable design where in-disk data, runtime state and unity components are separ
 
 - All the game configuration is layed out in read-only ScriptableObjects, Levels, Level List, Enemies, Towers, etc.
 - Runtime representations of these ScriptableObjects are created within the scripts in Logic folder.
-- Unity components are present in the MonoBehaviour component.
+- Unity components are present in the MonoBehaviours folder.
 - Implementing new design elements such as new towers or enemies doesn't take long.
 - Levels are self-contained, loading a Level into memory has all the necessary dependencies to work.
 - Created a rudimentary Level Editor, to be able to quickly make new levels and iterate over them.
