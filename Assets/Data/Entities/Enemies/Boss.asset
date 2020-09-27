@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6001b754b2241d642ace4f2a9fd145a7, type: 3}
+  m_Name: Boss
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 497629098573481325, guid: 8ad4ec0b2e02f8c41946edef0e45085e, type: 3}
+  m_maxHP: 1500
+  m_attackDamage: 200
+  m_initialSpeed: 0.5
+  m_moneyOnKill: 150
+  m_weight: 1

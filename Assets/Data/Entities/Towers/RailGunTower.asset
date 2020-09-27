@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46b59e2b9913c294fb86e247294a5a81, type: 3}
+  m_Name: RailGunTower
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 7321513811489009702, guid: f300e2c2cc91c604abb270c15edda6d5,
+    type: 3}
+  m_maxHP: 0
+  m_uiPrefab: {fileID: 4712395655261620068, guid: 91e0cc092a63b2a48bb8658341531b77,
+    type: 3}
+  m_cost: 100
+  m_range: 10
+  m_projectilePrefab: {fileID: 2334220667133317717, guid: 7a9528b4f0ead0a4c906c1e0cd38759f,
+    type: 3}
+  m_damagePerProjectile: 100
+  m_projectileSpeed: 25
+  m_rateOfFire: 1.2
+  m_attackRareEnemies: 1

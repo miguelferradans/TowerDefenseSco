@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46b59e2b9913c294fb86e247294a5a81, type: 3}
+  m_Name: MachineGunTower
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 7321513811489009702, guid: 7105999cd4c107a44a160902e8f3f6b5,
+    type: 3}
+  m_maxHP: 0
+  m_uiPrefab: {fileID: 4712395655261620068, guid: fa0a009ce7ead6e4daecae085d63a516,
+    type: 3}
+  m_cost: 50
+  m_range: 5
+  m_projectilePrefab: {fileID: 2334220667133317717, guid: 7a9528b4f0ead0a4c906c1e0cd38759f,
+    type: 3}
+  m_damagePerProjectile: 5
+  m_projectileSpeed: 20
+  m_rateOfFire: 0.125
+  m_turnSpeed: 2.5
